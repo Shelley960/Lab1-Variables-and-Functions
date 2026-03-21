@@ -13,3 +13,6 @@ Resources:
 
 2. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_AND
 - Teach me and symbol.
+
+3. Course Lecture Note and Course Module
+    - Gave me idea on how to do it and how.

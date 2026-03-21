@@ -13,3 +13,4 @@ function checkEligibility(age, isEmployed) {
     }
 }
 
+console.log(checkEligibility(age, isEmployed));

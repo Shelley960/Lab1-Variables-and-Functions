@@ -12,4 +12,3 @@ function formatFullName (firstName, lastName) {
     console.log(fullname);
 }}
 
-
